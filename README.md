@@ -1,2 +1,2 @@
 # Autonote
-an atomatic notifaction to customer service and distributors when a project/product they purchased is behind schedule
+is a interface meant to notify members of a supply chain when a project/ PO is behind schedule.
